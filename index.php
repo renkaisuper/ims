@@ -1,8 +1,8 @@
 <?php
-$servername = "6ea4012c-895a-4995-93b1-791dce272919.tugasims-2284.mysql.dbs.scalingo.com:34394";
-$username = "";
-$password = "";
-$dbname = "";
+$servername = "c8e2339e-044b-4207-a61a-9f561e34e9a0.imsfix1-4972.mysql.dbs.scalingo.com:34800";
+$username = "imsfix1_4972";
+$password = "GtgHUi69m7K6egOey35_";
+$dbname = "imsfix1_4972";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
